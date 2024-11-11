@@ -1,0 +1,10 @@
+/* navbar.css */
+.custom-navbar {
+   background-color: black; /* Altere para a cor desejada */
+}
+.custom-navbar .nav-link, .custom-navbar .navbar-brand {
+   color: #fff; /* Altere a cor do texto conforme necessário */
+}
+.custom-navbar .nav-link:hover {
+   color: #ffe0b2; /* Cor de hover para os links */
+}
