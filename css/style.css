@@ -8,3 +8,6 @@
 .custom-navbar .nav-link:hover {
    color: #ffe0b2; /* Cor de hover para os links */
 }
+.navbar-toggler-icon {
+   background-color: #fff; /* Cor desejada */
+}
